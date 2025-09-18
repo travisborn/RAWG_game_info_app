@@ -1,3 +1,3 @@
-fill out later with details
 
-Game data provided by RAWG. (need hyperlink)
+
+Game data provided by RAWG.
